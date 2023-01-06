@@ -1,4 +1,5 @@
 # RetailCompayECommerce
+This allows companies to use the latest technologies to update and remove products with ease. This allows my company to move and keep upu with the fast moving competing retail stores.
 
 ## User Story
 
@@ -23,3 +24,10 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
+
+## Installation 
+- Clone Repository
+- source schema.sql 
+- node seeds/index.js
+- then run command with node server.js
+
